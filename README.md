@@ -1,0 +1,1 @@
+This is assignment for Opinion Mining and Sentiment analysis on Twitter data using NLTK. This can be used for understanding the market image of a company regarding specific products and commodities.  
